@@ -8,14 +8,14 @@ Bu repoda Spring Boot öğrenirken oluşturduğum örnek projeler, denemeler ve 
 * Controller–Service–Repository mantığını pekiştirmek  
 * Spring Boot öğrenme sürecimi belgelemek
 
-## ✨ İçerik
+## İçerik
 * REST API örnekleri  
 * Katmanlı mimari uygulamaları  
 * Dependency Injection ve IoC örnekleri  
 * Basit CRUD uygulamaları  
 * Spring Boot konfigürasyon ve anotasyon pratikleri  
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 * **Java 17+**  
 * **Spring Boot**  
 * **Spring Web**  

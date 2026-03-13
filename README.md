@@ -20,4 +20,4 @@ Bu repoda Spring Boot öğrenirken oluşturduğum örnek projeler, denemeler ve 
 * **Spring Boot**  
 * **Spring Web**  
 * **Spring Data JPA**  
-* **Maven**  
+* **Maven**   

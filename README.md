@@ -1,7 +1,7 @@
 # Spring Boot Öğrenme Reposu 📚
 
 Bu repoda Spring Boot öğrenirken oluşturduğum örnek projeler, denemeler ve notlar yer alıyor. Backend geliştirme, RESTful API yapısı, katmanlı mimari ve Spring’in temel özelliklerini anlamak için bir çalışma alanı olarak hazırlanmıştır.
-
+ 
 ## 🚀 Amacı  
 * İleride kullanmak için referans bir çalışma alanı oluşturmak     
 * Temelden ileri seviyeye kadar örnekler oluşturmak   

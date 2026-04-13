@@ -4,7 +4,7 @@ Bu repoda Spring Boot öğrenirken oluşturduğum örnek projeler, denemeler ve 
 
 ## 🚀 Amacı  
 * İleride kullanmak için referans bir çalışma alanı oluşturmak     
-* Temelden ileri seviyeye kadar örnekler oluşturmak  
+* Temelden ileri seviyeye kadar örnekler oluşturmak   
 * Controller–Service–Repository mantığını pekiştirmek  
 * Spring Boot öğrenme sürecimi belgelemek
 

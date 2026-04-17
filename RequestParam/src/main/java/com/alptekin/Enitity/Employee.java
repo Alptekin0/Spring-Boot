@@ -1,0 +1,25 @@
+package com.alptekin.Enitity;
+
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@AllArgsConstructor
+@NoArgsConstructor
+public class Employee {
+
+    private String id;
+
+    private String FullName;
+
+    private int Age;
+
+    private Long salary;
+
+    private String shift;
+
+}

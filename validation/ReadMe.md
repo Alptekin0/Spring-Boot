@@ -16,6 +16,6 @@ Bir REST API'ye gelen isteklerin (request) veritabanına kaydedilmeden önce bel
 * **Katmanlı Mimari:** Controller, Service ve Repository katmanları ayrılmıştır.
 * **DTO Kullanımı:** İstemciden gelen veriler `DtoStudentRequest` ile alınmış, kurallardan geçtikten sonra şifre gibi hassas veriler gizlenerek `DtoStudentResponse` ile geriye dönülmüştür.
 * **Gelişmiş Doğrulama:** * Özel RegEx formatı kontrolü (Örn: Numaranın sadece 11 haneli rakamlardan oluşması).
-    * Min/Max uzunluk ve değer sınırlandırmaları (Örn: Şifre uzunluğu, maksimum not ortalaması).
----
+    * Min/Max uzunluk ve değer sınırlandırmaları (Örn: Şifre uzunluğu, maksimum not ortalaması).  
+        
 *Not: Bu proje tamamen kişisel öğrenme ve gelişim amacıyla hazırlanmıştır.*
